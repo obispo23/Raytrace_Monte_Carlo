@@ -4,7 +4,7 @@
 //UCLA Department of Materials Science
 //Marian Research group
 //started July 24, 2017
-//current edited dat February 5, 2019
+//current edited date June 13, 2019
 #include<fstream>
 #include<string>
 #include<iostream>
